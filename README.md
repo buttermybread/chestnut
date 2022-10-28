@@ -1,7 +1,9 @@
 Simple Inventory Management in Java
 =======
 Author: Sarah Y. Gao
+
 Created on: 20220522
+
 Version: 1.0
 
 Description
